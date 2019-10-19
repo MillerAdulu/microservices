@@ -4,6 +4,7 @@ go 1.13
 
 require (
 	github.com/golang/protobuf v1.3.2
+	github.com/micro/protobuf v0.0.0-20180321161605-ebd3be6d4fdb // indirect
 	golang.org/x/net v0.0.0-20191014212845-da9a3fd4c582 // indirect
 	golang.org/x/sys v0.0.0-20191018095205-727590c5006e // indirect
 	golang.org/x/text v0.3.2 // indirect
